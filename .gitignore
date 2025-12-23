@@ -1,0 +1,14 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Data (generated)
+data/raw/
+data/processed/
+data/combined/
